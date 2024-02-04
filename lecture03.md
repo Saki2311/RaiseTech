@@ -1,28 +1,28 @@
 ### サンプルアプリケーション起動
 - エビデンス画像
-    - ![lecture03_deployment.png]./assets/image/lecture03_deployment.png
+    - ![lecture03_deployment.png](./assets/image/lecture03_deployment.png)
 
 
 ### APサーバー・DBサーバーについて
 - 【APサーバーについて】
     - APサーバー名：Puma
     - バージョン：Puma version:5.6.8(ruby 3.1.2-p20)("Birdre's Version")
-      - ![lecture03_1.1.png]./assets/image/lecture03_1.1.png
+      - ![lecture03_1.1.png](./assets/image/lecture03_1.1.png)
     - APサーバーの終了後のアクセス → **不可**
-      - ![lecture03_1.2.png]./assets/image/lecture03_1.2.png
-      - ![lecture03-1.3.png]./image/lecture03_1.3.png
+      - ![lecture03_1.2.png](./assets/image/lecture03_1.2.png)
+      - ![lecture03-1.3.png](./assets/image/lecture03_1.3.png)
     - APサーバーを再度起動
-      - ![lecture03_1.4.png]./assets/image/lecture03_1.4.png
+      - ![lecture03_1.4.png](./assets/image/lecture03_1.4.png)
 
 - 【DBサーバーについて】
     - DBサーバー名：MySQL　
-      - ![lecture03_2.1.png]./assets/image/lecture03_2.1.png
+      - ![lecture03_2.1.png](./assets/image/lecture03_2.1.png)
     - Cloud9で動作しているMySQLバージョン：8.0.36 for Linux on x86_64
-      - ![lecture03_2.2.png]./assets/image/lecture03_2.2.pmg
+      - ![lecture03_2.2.png](./assets/image/lecture03_2.2.pmg)
     - DBサーバーを終了させた場合、引き続きアクセスできるか？ → **不可**
-      - ![lecture03_2.3.png]./assets/image/lecture03_2.3.png
+      - ![lecture03_2.3.png](./assets/image/lecture03_2.3.png)
     - Railsの構成管理ツール名：Bundler
-      - ![lecture03_2.4.png]./assets/image/lecture03_2.4.png
+      - ![lecture03_2.4.png](./assets/image/lecture03_2.4.png)
 
 
 ### 第3回講義の感想
