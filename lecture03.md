@@ -17,7 +17,7 @@
     - DBサーバー名：MySQL　
     ![lecture03_2.1.png](image/lecture03-2.1.png)
     - Cloud9で動作しているMySQLバージョン：8.0.36 for Linux on x86_64
-    ![lecture03_2.2.png](image/lecture03-2.2.pmg)
+    ![lecture03_2.2.png](image/lecture03-2.2.png)
     - DBサーバーを終了させた場合、引き続きアクセスできるか？ → **不可**
     ![lecture03_2.3.png](image/lecture03-2.3.png)
     - Railsの構成管理ツール名：Bundler
